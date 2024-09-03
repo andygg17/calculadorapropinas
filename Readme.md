@@ -1,0 +1,1 @@
+Aplicación para calcular las propinas hecha por Garcia Garcia Andrea del Carmen, se encarga de hacer calculo de propinas para ello es necesario ingresar la cantidad total y seleccionar una opción de acuerdo al servicio con el que se atendió, para luego darle al botón de calcular y la app calcule el monto exacto de propina o, si lo desea redondear en la parte de abajo lo indique.
